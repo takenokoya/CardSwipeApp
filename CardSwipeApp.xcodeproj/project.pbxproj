@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D489DDC922FEADA500FD9886 /* LikedListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D489DDC822FEADA500FD9886 /* LikedListTableViewController.swift */; };
 		D4B40A5522FE42F5000BD818 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B40A5422FE42F5000BD818 /* AppDelegate.swift */; };
 		D4B40A5722FE42F5000BD818 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B40A5622FE42F5000BD818 /* ViewController.swift */; };
 		D4B40A5A22FE42F5000BD818 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4B40A5822FE42F5000BD818 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D489DDC822FEADA500FD9886 /* LikedListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikedListTableViewController.swift; sourceTree = "<group>"; };
 		D4B40A5122FE42F5000BD818 /* CardSwipeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardSwipeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B40A5422FE42F5000BD818 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4B40A5622FE42F5000BD818 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				D4B40A5B22FE42F7000BD818 /* Assets.xcassets */,
 				D4B40A5D22FE42F7000BD818 /* LaunchScreen.storyboard */,
 				D4B40A6022FE42F7000BD818 /* Info.plist */,
+				D489DDC822FEADA500FD9886 /* LikedListTableViewController.swift */,
 			);
 			path = CardSwipeApp;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D489DDC922FEADA500FD9886 /* LikedListTableViewController.swift in Sources */,
 				D4B40A5722FE42F5000BD818 /* ViewController.swift in Sources */,
 				D4B40A5522FE42F5000BD818 /* AppDelegate.swift in Sources */,
 			);
